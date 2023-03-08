@@ -814,7 +814,7 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
+"启用嗅探截取": "0",
 "嗅探请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
 "播放地址二次截取": "class=\"main\"$$class=\"module-player-side\"",
 "播放地址截取": "\"url\":\"$$\"",
