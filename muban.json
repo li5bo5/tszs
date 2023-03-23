@@ -38,23 +38,20 @@
 ],
 
 "zhuyejiekou": [
-{"name": "cs","url": "https://xxx.com/api.php/v1.vod"}
+{"name": "填写APP接口名称","url": "https://xxx.com/api.php/v1.vod"}
 ],
 
 "caijizhan": [
-  {"name":"七七","url":"http://xxx.com/api.php"}
+  {"name":"填写采集名称","url":"http://xxx.com/api.php"}
 ],
 
 "zhujiexi":[
-{"name":"主解1","url":"http://ts.lmlemon.com/home/api?type=ys&uid=19083&key=32ca2fdd9690e842d5f54ecc78ae4f79&url="}
+{"name":"主解1","url":"http://xxx.com/url="}
 ],
 
 "beiyongjiexi": [
-{"name":"备解1","url":"https://jx.jsonplayer.com/player/?url="}, 
-{"name":"备解2", "url": "https://jx.xmflv.com/?url="},
-{"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
-{"name":"备解4","url":"https://okjx.cc/?url="},
-{"name":"备解5","url":"https://www.pangujiexi.com/pangu/?url="}
+{"name":"备解1","url":"http://xxx.com/url="}, 
+{"name":"备解2", "url": "http://xxx.com/url="}
 ],
 "dianshizhibo": "填写电视直播地址",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
