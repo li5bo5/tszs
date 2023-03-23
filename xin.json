@@ -1,4 +1,4 @@
-1{"Home": [
+{"Home": [
 {"key": "自选网页",
 "title": "电视剧",
 "pic": "https://agit.ai/hellocupe/test/raw/branch/master/1.png",
@@ -62,7 +62,7 @@
 
 "zidingyi": [
 {"name": "乐猪影视",
-"url": "填写自定义网站地址",
+"url": "http:填写网站地址.com",
 "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "User": "User-Agent$123",
 "集数倒序": "1",
