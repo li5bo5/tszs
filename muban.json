@@ -1,3 +1,4 @@
+//提示：模板只是提供一个格式思路，需要自己编辑每个板块的内容，不会编辑全局的小伙伴就不要用这个模板了
 {"Home": [
 {"key": "自选网页",
 "title": "电视剧",
@@ -15,9 +16,16 @@
 "title": "综艺",
 "pic": "https://agit.ai/hellocupe/test/raw/branch/master/4.png",
 "custom": "填写自定义规则"},
+{"key":"网页","title":"网页","pic":"https://agit.ai/hellocupe/test/raw/branch/master/13.png"},
+{"key":"采集","title":"采集","pic":"https://agit.ai/hellocupe/test/raw/branch/master/14.png"},
+{"key":"APP","title":"APP","pic":"https://agit.ai/hellocupe/test/raw/branch/master/15.png"},
+{"key":"直播","title":"直播","pic":"https://agit.ai/hellocupe/test/raw/branch/master/7.png"},
 {"key":"历史","title":"历史","pic":"https://agit.ai/hellocupe/test/raw/branch/master/5.png"},
 {"key":"收藏","title":"收藏","pic":"https://agit.ai/hellocupe/test/raw/branch/master/6.png"},
-{"key":"直播","title":"直播","pic":"https://agit.ai/hellocupe/test/raw/branch/master/7.png"},
+{"key": "自选网页",
+"title": "轮播",
+"pic": "https://agit.ai/hellocupe/test/raw/branch/master/16.png",
+"custom": "填写自定义规则"},
 {"key": "自选网页",
 "title": "戏曲",
 "pic": "https://agit.ai/hellocupe/test/raw/branch/master/8.png",
