@@ -288,7 +288,7 @@
 "访问请求ua": "Dart/2.14 (dart:io)",
 "播放请求头": "User-Agent$123",
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#stariverpan#.m4a#data.aliyundrive.net",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#rl=",
 "列表起始页": "1",
 "列表分类": "电视剧$2&class=&area=&lang=&year=&limit=18&pg=#电影$1&class=&area=&lang=&year=&limit=18&pg=#综艺$3&class=&area=&lang=&year=&limit=18&pg=#动漫$4&class=&area=&lang=&year=&limit=18&pg=",
 "列表后缀": "",
