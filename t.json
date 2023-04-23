@@ -44,7 +44,6 @@
 "caijizhan": [
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"无名官采","url":"http://124.220.183.81:83/api.php"},
-{"name":"可米官采","url":"https://cj.kemi.lol/api.php"},
 {"name":"忆梦官采","url":"http://anltv.cn/api.php"}
 ],
 
@@ -61,7 +60,7 @@
 ],
 "dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
-"guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#?ac=dm",
+"guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#m3u8.pw",
 
 "zidingyi": [
   {"name": "七七影视",
